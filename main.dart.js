@@ -21418,7 +21418,7 @@ n.q(0,p,o)
 p=o}else p=o
 p.push(q)}return n},
 app(){var s=$.ajL()
-s.grK(s).oa$="http://green-fox-backend-2-mgwmf.ondigitalocean.app"
+s.grK(s).oa$="https://green-fox-backend-2-mgwmf.ondigitalocean.app"
 s=$.ajL()
 s.grK(s).soh(0,P.ap(["Content-Type","application/json"],t.N,t.z))},
 Fy(a,b){return Y.aAH(a,b)},
@@ -69828,7 +69828,7 @@ eo(){return C.V.dT(P.ap(["codError",this.a,"descError",this.b],t.N,t.z))}}
 U.uZ.prototype={
 j(a){return this.b}}
 U.mF.prototype={
-aec(a,b){var s=t.N,r=P.ap(["username","findholding","password",b],s,s)
+aec(a,b){var s=t.N,r=P.ap(["username","findholding","password","8Bd%g6dqgZ%*2$%N"],s,s)
 Y.Fy("/login",P.ap(["email",a,"password",b],s,s)).b_(0,new U.Ur(this,r),t.P)},
 wR(){var s=0,r=P.W(t.y),q,p=this
 var $async$wR=P.R(function(a,b){if(a===1)return P.T(b,r)
@@ -70133,64 +70133,64 @@ if(s.F9())s.afD(0,this.b)},
 $S:0}
 G.DC.prototype={
 I(a,b){var s=null,r=this.c,q=r.c,p=t.p
-return T.dw(H.a([L.M("Direcciones",s,s,s,B.am(C.h,30,C.v),s,s),Z.vL(),T.ak(s,25,s),T.aU(H.a([L.M("Provincia: ",s,s,s,B.am(C.h,20,C.v),s,s),L.M(q.c,s,s,s,B.am(C.h,18,s),s,s)],p),C.n,C.u,C.o,s),T.ak(s,25,s),T.aU(H.a([L.M("Departamento: ",s,s,s,B.am(C.h,20,C.v),s,s),L.M(r.b.b,s,s,s,B.am(C.h,18,s),s,s),L.M(q.d,s,s,s,B.am(C.h,18,s),s,s)],p),C.n,C.u,C.o,s),T.ak(s,25,s),T.aU(H.a([L.M("Localizacion: ",s,s,s,B.am(C.h,20,C.v),s,s),L.M(q.e,s,s,s,B.am(C.h,18,s),s,s)],p),C.n,C.u,C.o,s),T.ak(s,25,s),T.aU(H.a([L.M("Calle: ",s,s,s,B.am(C.h,20,C.v),s,s),L.M(q.f,s,s,s,B.am(C.h,18,s),s,s)],p),C.n,C.u,C.o,s),T.ak(s,25,s),T.aU(H.a([L.M("Email: ",s,s,s,B.am(C.h,20,C.v),s,s),L.M(q.y,s,s,s,B.am(C.h,18,s),s,s)],p),C.n,C.u,C.o,s),T.ak(s,25,s),T.aU(H.a([L.M("Telefono: ",s,s,s,B.am(C.h,20,C.v),s,s),L.M(q.x,s,s,s,B.am(C.h,18,s),s,s)],p),C.n,C.u,C.o,s)],p),C.n,C.u,C.o)}}
+return T.dw(H.a([L.M("Direcciones",s,s,s,B.am(C.h,25,C.v),s,s),Z.vL(),T.ak(s,25,s),T.aU(H.a([L.M("Provincia: ",s,s,s,B.am(C.h,18,C.v),s,s),L.M(q.c,s,s,s,B.am(C.h,16,s),s,s)],p),C.n,C.u,C.o,s),T.ak(s,25,s),T.aU(H.a([L.M("Departamento: ",s,s,s,B.am(C.h,18,C.v),s,s),L.M(r.b.b,s,s,s,B.am(C.h,16,s),s,s),L.M(q.d,s,s,s,B.am(C.h,16,s),s,s)],p),C.n,C.u,C.o,s),T.ak(s,25,s),T.aU(H.a([L.M("Localizaci\xf3n: ",s,s,s,B.am(C.h,18,C.v),s,s),L.M(q.e,s,s,s,B.am(C.h,16,s),s,s)],p),C.n,C.u,C.o,s),T.ak(s,25,s),T.aU(H.a([L.M("Calle: ",s,s,s,B.am(C.h,18,C.v),s,s),L.M(q.f,s,s,s,B.am(C.h,16,s),s,s)],p),C.n,C.u,C.o,s),T.ak(s,25,s),T.aU(H.a([L.M("Email: ",s,s,s,B.am(C.h,18,C.v),s,s),L.M(q.y,s,s,s,B.am(C.h,16,s),s,s)],p),C.n,C.u,C.o,s),T.ak(s,25,s),T.aU(H.a([L.M("Telefono: ",s,s,s,B.am(C.h,18,C.v),s,s),L.M(q.x,s,s,s,B.am(C.h,16,s),s,s)],p),C.n,C.u,C.o,s)],p),C.n,C.u,C.o)}}
 D.DX.prototype={
 I(a,b){var s=null,r=this.c,q=t.p,p=r.b
-return T.dw(H.a([L.M("Datos Basicos",s,s,s,B.am(C.h,30,C.v),s,s),Z.vL(),T.ak(s,25,s),T.aU(H.a([L.M("Nombre de usuario: ",s,s,s,B.am(C.h,20,C.v),s,s),L.M(r.a,s,s,s,B.am(C.h,18,s),s,s)],q),C.n,C.u,C.o,s),T.ak(s,25,s),T.aU(H.a([L.M("Nombre y apellido: ",s,s,s,B.am(C.h,20,C.v),s,s),L.M(p.b,s,s,s,B.am(C.h,18,s),s,s),L.M(" "+p.c,s,s,s,B.am(C.h,18,s),s,s)],q),C.n,C.u,C.o,s),T.ak(s,25,s),T.aU(H.a([L.M("Fecha de nacimiento: ",s,s,s,B.am(C.h,20,C.v),s,s),L.M(J.cl(p.f),s,s,s,B.am(C.h,18,s),s,s)],q),C.n,C.u,C.o,s),T.ak(s,25,s),T.aU(H.a([L.M("Email: ",s,s,s,B.am(C.h,20,C.v),s,s),L.M(r.c.y,s,s,s,B.am(C.h,18,s),s,s)],q),C.n,C.u,C.o,s),T.ak(s,25,s),T.aU(H.a([L.M("Tipo Documento: ",s,s,s,B.am(C.h,20,C.v),s,s),L.M(H.c(p.d),s,s,s,B.am(C.h,18,s),s,s)],q),C.n,C.u,C.o,s),T.ak(s,25,s),T.aU(H.a([L.M("Nro Documento: ",s,s,s,B.am(C.h,20,C.v),s,s),L.M(""+p.e,s,s,s,B.am(C.h,18,s),s,s)],q),C.n,C.u,C.o,s),T.ak(s,25,s),T.aU(H.a([L.M("Estado civil: ",s,s,s,B.am(C.h,20,C.v),s,s),L.M(H.c(p.Q),s,s,s,B.am(C.h,18,s),s,s)],q),C.n,C.u,C.o,s)],q),C.n,C.u,C.o)}}
+return T.dw(H.a([L.M("Datos Basicos",s,s,s,B.am(C.h,25,C.v),s,s),Z.vL(),T.ak(s,25,s),T.aU(H.a([L.M("Nombre de usuario: ",s,s,s,B.am(C.h,18,C.v),s,s),L.M(r.a,s,s,s,B.am(C.h,16,s),s,s)],q),C.n,C.u,C.o,s),T.ak(s,25,s),T.aU(H.a([L.M("Nombre y apellido: ",s,s,s,B.am(C.h,18,C.v),s,s),L.M(p.b,s,s,s,B.am(C.h,16,s),s,s),L.M(" "+p.c,s,s,s,B.am(C.h,16,s),s,s)],q),C.n,C.u,C.o,s),T.ak(s,25,s),T.aU(H.a([L.M("Fecha de nacimiento: ",s,s,s,B.am(C.h,18,C.v),s,s),L.M(J.cl(p.f),s,s,s,B.am(C.h,16,s),s,s)],q),C.n,C.u,C.o,s),T.ak(s,25,s),T.aU(H.a([L.M("Email: ",s,s,s,B.am(C.h,18,C.v),s,s),L.M(r.c.y,s,s,s,B.am(C.h,16,s),s,s)],q),C.n,C.u,C.o,s),T.ak(s,25,s),T.aU(H.a([L.M("Tipo Documento: ",s,s,s,B.am(C.h,18,C.v),s,s),L.M(H.c(p.d),s,s,s,B.am(C.h,16,s),s,s)],q),C.n,C.u,C.o,s),T.ak(s,25,s),T.aU(H.a([L.M("Nro Documento: ",s,s,s,B.am(C.h,18,C.v),s,s),L.M(""+p.e,s,s,s,B.am(C.h,16,s),s,s)],q),C.n,C.u,C.o,s),T.ak(s,25,s),T.aU(H.a([L.M("Estado civil: ",s,s,s,B.am(C.h,18,C.v),s,s),L.M(H.c(p.Q),s,s,s,B.am(C.h,16,s),s,s)],q),C.n,C.u,C.o,s)],q),C.n,C.u,C.o)}}
 T.Ef.prototype={
-I(a,b){var s,r,q,p,o,n,m,l,k,j=null,i="Otra ocupacion: ",h=L.M("Categorizacion",j,j,j,B.am(C.h,30,C.v),j,j),g=Z.vL(),f=T.ak(j,25,j),e=L.M("Empleado?: ",j,j,j,B.am(C.h,20,C.v),j,j),d=this.c.f,c=d.b
-c.toString
+I(a,b){var s,r,q,p,o,n,m,l,k,j=null,i=L.M("Categorizaci\xf3n",j,j,j,B.am(C.h,25,C.v),j,j),h=Z.vL(),g=T.ak(j,25,j),f=L.M("\xbfEs empleado?: ",j,j,j,B.am(C.h,18,C.v),j,j),e=this.c.f,d=e.b
+d.toString
 s=t.p
-c=T.aU(H.a([e,L.M(c,j,j,j,B.am(C.h,18,j),j,j)],s),C.n,C.u,C.o,j)
-e=T.ak(j,25,j)
-r=T.aU(H.a([L.M("Antiguedad: ",j,j,j,B.am(C.h,20,C.v),j,j),L.M(d.c,j,j,j,B.am(C.h,18,j),j,j)],s),C.n,C.u,C.o,j)
+d=T.aU(H.a([f,L.M(d,j,j,j,B.am(C.h,16,j),j,j)],s),C.n,C.u,C.o,j)
+f=T.ak(j,25,j)
+r=T.aU(H.a([L.M("Antig\xfcedad: ",j,j,j,B.am(C.h,18,C.v),j,j),L.M(e.c,j,j,j,B.am(C.h,16,j),j,j)],s),C.n,C.u,C.o,j)
 q=T.ak(j,25,j)
-p=T.aU(H.a([L.M("Posicion: ",j,j,j,B.am(C.h,20,C.v),j,j),L.M(d.d,j,j,j,B.am(C.h,18,j),j,j)],s),C.n,C.u,C.o,j)
+p=T.aU(H.a([L.M("Posici\xf3n: ",j,j,j,B.am(C.h,18,C.v),j,j),L.M(e.d,j,j,j,B.am(C.h,16,j),j,j)],s),C.n,C.u,C.o,j)
 o=T.ak(j,25,j)
-n=L.M(i,j,j,j,B.am(C.h,20,C.v),j,j)
-m=d.e
+n=L.M("Otra ocupaci\xf3n: ",j,j,j,B.am(C.h,18,C.v),j,j)
+m=e.e
 l=m==="0"?"No data":m
-l=T.aU(H.a([n,L.M(l,j,j,j,B.am(C.h,18,j),j,j)],s),C.n,C.u,C.o,j)
+l=T.aU(H.a([n,L.M(l,j,j,j,B.am(C.h,16,j),j,j)],s),C.n,C.u,C.o,j)
 n=T.ak(j,25,j)
-k=L.M(i,j,j,j,B.am(C.h,20,C.v),j,j)
-d=d.f==="0"?"No data":m
-return T.dw(H.a([h,g,f,c,e,r,q,p,o,l,n,T.aU(H.a([k,L.M(d,j,j,j,B.am(C.h,18,j),j,j)],s),C.n,C.u,C.o,j)],s),C.n,C.u,C.o)}}
+k=L.M("T\xedtulo profesional: ",j,j,j,B.am(C.h,18,C.v),j,j)
+e=e.f==="0"?"No data":m
+return T.dw(H.a([i,h,g,d,f,r,q,p,o,l,n,T.aU(H.a([k,L.M(e,j,j,j,B.am(C.h,16,j),j,j)],s),C.n,C.u,C.o,j)],s),C.n,C.u,C.o)}}
 U.FL.prototype={
 I(a,b){var s=null,r=this.c.r,q=t.p
-return T.dw(H.a([L.M("Economia",s,s,s,B.am(C.h,30,C.v),s,s),Z.vL(),T.ak(s,25,s),T.aU(H.a([L.M("Ingreso mensual: ",s,s,s,B.am(C.h,20,C.v),s,s),L.M(C.e.j(r.b),s,s,s,B.am(C.h,18,s),s,s)],q),C.n,C.u,C.o,s),T.ak(s,25,s),T.aU(H.a([L.M("Permanente: ",s,s,s,B.am(C.h,20,C.v),s,s),L.M(C.e.j(r.c),s,s,s,B.am(C.h,18,s),s,s)],q),C.n,C.u,C.o,s),T.ak(s,25,s),T.aU(H.a([L.M("Variable: ",s,s,s,B.am(C.h,20,C.v),s,s),L.M(C.e.j(r.d),s,s,s,B.am(C.h,18,s),s,s)],q),C.n,C.u,C.o,s)],q),C.n,C.u,C.o)}}
+return T.dw(H.a([L.M("Econom\xeda",s,s,s,B.am(C.h,25,C.v),s,s),Z.vL(),T.ak(s,25,s),T.aU(H.a([L.M("Ingreso mensual: ",s,s,s,B.am(C.h,18,C.v),s,s),L.M(C.e.j(r.b),s,s,s,B.am(C.h,16,s),s,s)],q),C.n,C.u,C.o,s),T.ak(s,25,s),T.aU(H.a([L.M("Permanente: ",s,s,s,B.am(C.h,18,C.v),s,s),L.M(C.e.j(r.c),s,s,s,B.am(C.h,16,s),s,s)],q),C.n,C.u,C.o,s),T.ak(s,25,s),T.aU(H.a([L.M("Variable: ",s,s,s,B.am(C.h,18,C.v),s,s),L.M(C.e.j(r.d),s,s,s,B.am(C.h,16,s),s,s)],q),C.n,C.u,C.o,s)],q),C.n,C.u,C.o)}}
 V.GL.prototype={
 I(a,b){var s=null,r=K.hn(5)
 return T.e4(M.aV(s,T.dw(H.a([M.aV(s,U.a0j("buscador.jpg"),C.k,s,s,s,s,200,s,s,s,s,200),L.M("Por favor, ingresa un filtro para buscar afiliados",s,s,s,B.am(C.h,18,C.v),C.bu,s)],t.p),C.n,C.u,C.o),C.k,s,s,new S.bK(C.l,s,s,r,s,s,C.G),s,250,new V.aC(0,50,0,0),s,s,s,600),s,s)}}
 V.KP.prototype={
-I(a,b){var s,r,q,p,o,n,m,l,k=null,j=L.M("Declaracion Jurada",k,k,k,B.am(C.h,30,C.v),k,k),i=Z.vL(),h=T.ak(k,25,k),g=L.M("Politicamente expuesto?: ",k,k,k,B.am(C.h,20,C.v),k,k),f=this.c.d,e=f.b
+I(a,b){var s,r,q,p,o,n,m,l,k=null,j=L.M("Declaraci\xf3n Jurada",k,k,k,B.am(C.h,25,C.v),k,k),i=Z.vL(),h=T.ak(k,25,k),g=L.M("\xbfEsta politicamente expuesto?: ",k,k,k,B.am(C.h,18,C.v),k,k),f=this.c.d,e=f.b
 e.toString
 s=t.p
-e=T.aU(H.a([g,L.M(e,k,k,k,B.am(C.h,18,k),k,k)],s),C.n,C.u,C.o,k)
+e=T.aU(H.a([g,L.M(e,k,k,k,B.am(C.h,16,k),k,k)],s),C.n,C.u,C.o,k)
 g=T.ak(k,25,k)
-r=T.aU(H.a([L.M("Posicion: ",k,k,k,B.am(C.h,20,C.v),k,k),L.M(f.c,k,k,k,B.am(C.h,18,k),k,k)],s),C.n,C.u,C.o,k)
+r=T.aU(H.a([L.M("Posici\xf3n: ",k,k,k,B.am(C.h,18,C.v),k,k),L.M(f.c,k,k,k,B.am(C.h,16,k),k,k)],s),C.n,C.u,C.o,k)
 q=T.ak(k,25,k)
-p=T.aU(H.a([L.M("Proxima actividad: ",k,k,k,B.am(C.h,20,C.v),k,k),L.M(f.f,k,k,k,B.am(C.h,18,k),k,k)],s),C.n,C.u,C.o,k)
+p=T.aU(H.a([L.M("Proxima actividad: ",k,k,k,B.am(C.h,18,C.v),k,k),L.M(f.f,k,k,k,B.am(C.h,16,k),k,k)],s),C.n,C.u,C.o,k)
 o=T.ak(k,25,k)
-n=L.M("Miembro terrorista?: ",k,k,k,B.am(C.h,20,C.v),k,k)
+n=L.M("\xbfEs miembro terrorista?: ",k,k,k,B.am(C.h,18,C.v),k,k)
 m=f.r
 m.toString
-m=T.aU(H.a([n,L.M(m,k,k,k,B.am(C.h,18,k),k,k)],s),C.n,C.u,C.o,k)
+m=T.aU(H.a([n,L.M(m,k,k,k,B.am(C.h,16,k),k,k)],s),C.n,C.u,C.o,k)
 n=T.ak(k,25,k)
-l=L.M("Financista?: ",k,k,k,B.am(C.h,20,C.v),k,k)
+l=L.M("Financing: ",k,k,k,B.am(C.h,18,C.v),k,k)
 f=f.x
 f.toString
-return T.dw(H.a([j,i,h,e,g,r,q,p,o,m,n,T.aU(H.a([l,L.M(f,k,k,k,B.am(C.h,18,k),k,k)],s),C.n,C.u,C.o,k)],s),C.n,C.u,C.o)}}
+return T.dw(H.a([j,i,h,e,g,r,q,p,o,m,n,T.aU(H.a([l,L.M(f,k,k,k,B.am(C.h,16,k),k,k)],s),C.n,C.u,C.o,k)],s),C.n,C.u,C.o)}}
 X.KW.prototype={
-I(a,b){var s,r,q=null,p="No data",o=L.M("Impuestos",q,q,q,B.am(C.h,30,C.v),q,q),n=Z.vL(),m=T.ak(q,25,q),l=L.M("Impuesto agregado: ",q,q,q,B.am(C.h,20,C.v),q,q),k=this.c.e,j=k.c,i=j==null,h=i?p:J.cl(k.b),g=t.p
-h=T.aU(H.a([l,L.M(h,q,q,q,B.am(C.h,18,q),q,q)],g),C.n,C.u,C.o,q)
+I(a,b){var s,r,q=null,p="No data",o=L.M("Impuestos",q,q,q,B.am(C.h,25,C.v),q,q),n=Z.vL(),m=T.ak(q,25,q),l=L.M("Impuesto agregado: ",q,q,q,B.am(C.h,18,C.v),q,q),k=this.c.e,j=k.c,i=j==null,h=i?p:J.cl(k.b),g=t.p
+h=T.aU(H.a([l,L.M(h,q,q,q,B.am(C.h,16,q),q,q)],g),C.n,C.u,C.o,q)
 l=T.ak(q,25,q)
-s=L.M("Impuesto bruto: ",q,q,q,B.am(C.h,20,C.v),q,q)
+s=L.M("Impuesto bruto: ",q,q,q,B.am(C.h,18,C.v),q,q)
 j=i?p:C.e.j(j)
-j=T.aU(H.a([s,L.M(j,q,q,q,B.am(C.h,18,q),q,q)],g),C.n,C.u,C.o,q)
+j=T.aU(H.a([s,L.M(j,q,q,q,B.am(C.h,16,q),q,q)],g),C.n,C.u,C.o,q)
 s=T.ak(q,25,q)
-r=L.M("Impuesto sobre la renta: ",q,q,q,B.am(C.h,20,C.v),q,q)
+r=L.M("Impuesto sobre la renta: ",q,q,q,B.am(C.h,18,C.v),q,q)
 k=i?p:J.cl(k.d)
-return T.dw(H.a([o,n,m,h,l,j,s,T.aU(H.a([r,L.M(k,q,q,q,B.am(C.h,18,q),q,q)],g),C.n,C.u,C.o,q)],g),C.n,C.u,C.o)}}
+return T.dw(H.a([o,n,m,h,l,j,s,T.aU(H.a([r,L.M(k,q,q,q,B.am(C.h,16,q),q,q)],g),C.n,C.u,C.o,q)],g),C.n,C.u,C.o)}}
 X.vA.prototype={
 I(a,b){var s=null
 return T.aAZ(M.aV(s,L.M(this.c,s,s,s,B.am(C.h,10,C.v),s,s),C.k,s,s,s,s,s,s,new V.aC(20,0,20,0),s,s,s),C.hv)},
